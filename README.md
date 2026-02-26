@@ -1,4 +1,3 @@
-Estudante de Gestão de TI me especializando em Suporte técnico, Programação em C#,ASP.NET e etc...
-Possuo inglês avançado e pretendo o mais breve possível poder atuar na área da Tecnolologia.
+Estudante de Gestão de Tecnologia da Informação com uma base sólida em lógica de programação. Possuo conhecimentos em linguagens como Python e C#, além de manipulação de bases de dados em MySQL. Tenho proficiência avançada em inglês.
 
-I'm a student of IT Management, specializing in Technical Support and Programming with C# and ASP.NET. I have advanced English skills and aim to start working in the technology field as soon as possible.
+IT student with a solid foundation in programming logic. Knowledgeable in languages such as Python and C#, as well as database using MySQL. Advanced english skills.
