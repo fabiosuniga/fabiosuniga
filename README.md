@@ -11,11 +11,11 @@ Desenvolvedor em transição para o ecossistema .NET, com sólida base em **Pyth
 
 ## 📌 Projetos em Destaque
 
-### (https://github.com/fabiosuniga/ImpostoDeRenda_V2)
+### [Imposto de Renda](https://github.com/fabiosuniga/ImpostoDeRenda_V2)
 *Projeto que faz um cáculo de imposto de renda baseado em algumas vaiáveis fornecidas pelo usuário*
 > **Skills:** C#, ASP.NET Core
 
-### [D&D D](https://github.com/fabiosuniga/D-D-Damage)
+### [D&D Damage](https://github.com/fabiosuniga/D-D-Damage)
 *Projeto que traduz regras de dano de magias do sistema de jogo D&D versão 5e*
 > **Skills:** Python, Lógica de Programação.
 
