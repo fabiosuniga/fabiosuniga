@@ -19,6 +19,9 @@ Desenvolvedor em transição para o ecossistema .NET, com sólida base em **Pyth
 *Projeto que traduz regras de dano de magias do sistema de jogo D&D versão 5e*
 > **Skills:** Python, Lógica de Programação.
 
+### [Calculadora com Interface](https://github.com/fabiosuniga/calculadora-tkinter)
+*Calculadora simples, mas que possui interface gráfica e executável para download*
+> **Skills:** Python, Lógica de Programação.
 ---
 
 ## 📈 Educação & Certificações
