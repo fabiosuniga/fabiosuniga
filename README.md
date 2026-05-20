@@ -1,6 +1,6 @@
 # Olá, eu sou o Fábio Suniga! 👋
 
-Desenvolvedor em transição para o ecossistema .NET, com sólida base em **Python** e foco em **Gestão de Tecnologia da Informação**. Meu objetivo é construir soluções escaláveis, seguras e bem documentadas.
+Desenvolvedor com uma base sólida em lógica de programação. Possuo conhecimentos em linguagens como Python e C#, além de manipulação de bases de dados em MySQL. Meu objetivo é construir soluções escaláveis, seguras e bem documentadas.
 
 ## 🛠️ Stack Tecnológica
 
