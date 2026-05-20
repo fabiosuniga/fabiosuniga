@@ -5,7 +5,7 @@ Desenvolvedor com uma base sólida em lógica de programação. Possuo conhecime
 ## 🛠️ Stack Tecnológica
 
 ### Backend & Linguagens
-![SQL Server](https://img.shields.io/badge/sql%20server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQL Server](https://img.shields.io/badge/sql%20server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/asp.net%20core-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
