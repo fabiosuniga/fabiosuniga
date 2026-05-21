@@ -24,6 +24,10 @@ Desenvolvedor com uma base sólida em lógica de programação. Possuo conhecime
 ### [Calculadora com Interface](https://github.com/fabiosuniga/calculadora-tkinter)
 *Calculadora simples, mas que possui interface gráfica e executável para download*
 > **Skills:** Python, Lógica de Programação.
+
+### [Estudos Python](https://github.com/fabiosuniga/PythonStudies)
+*O foco principal deste repositório não é apenas criar códigos que funcionem, mas sim aprender a construir soluções de forma limpa, eficiente e utilizando boas práticas de mercado*
+> **Skills:** Python, Lógica de Programação.
 ---
 
 ## 📈 Educação & Certificações
