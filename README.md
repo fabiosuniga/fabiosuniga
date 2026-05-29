@@ -17,12 +17,16 @@ Desenvolvedor com uma base sólida em lógica de programação. Possuo conhecime
 *Projeto que faz um cáculo de imposto de renda baseado em algumas vaiáveis fornecidas pelo usuário*
 > **Skills:** C#, ASP.NET Core
 
-### [D&D Damage](https://github.com/fabiosuniga/D-D-Damage)
-*Projeto que traduz regras de dano de magias do sistema de jogo D&D versão 5e*
-> **Skills:** Python, Lógica de Programação.
+### [Machine Learning Preço de Imóveis](https://github.com/fabiosuniga/MachineLearning-PrecoImoveis)
+*Projeto de machine learning onde voc6e descobre valor de imóveis com base de informações coletadas pelo usuário*
+> **Skills:** Python, Pandas, Scikit-Learn.
 
 ### [Calculadora com Interface](https://github.com/fabiosuniga/calculadora-tkinter)
 *Calculadora simples, mas que possui interface gráfica e executável para download*
+> **Skills:** Python, Lógica de Programação.
+
+### [D&D Damage](https://github.com/fabiosuniga/D-D-Damage)
+*Projeto que traduz regras de dano de magias do sistema de jogo D&D versão 5e*
 > **Skills:** Python, Lógica de Programação.
 
 ### [Estudos Python](https://github.com/fabiosuniga/PythonStudies)
