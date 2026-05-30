@@ -13,9 +13,9 @@ Desenvolvedor com uma base sólida em lógica de programação. Possuo conhecime
 
 ## 📌 Projetos em Destaque
 
-### [Imposto de Renda](https://github.com/fabiosuniga/ImpostoDeRenda_V2)
-*Projeto que faz um cáculo de imposto de renda baseado em algumas vaiáveis fornecidas pelo usuário*
-> **Skills:** C#, ASP.NET Core
+### [Alta Visual Web](https://github.com/fabiosuniga/AltaVisual-App)
+*aplicação web robusta desenvolvida para otimizar e gerenciar o fluxo de trabalho*
+> **Skills:** C# com ASP.NET Core, SQL Server, HTML5, CSS3, Razor Pages e Bootstrap 5
 
 ### [Machine Learning Preço de Imóveis](https://github.com/fabiosuniga/MachineLearning-PrecoImoveis)
 *Projeto de machine learning onde voc6e descobre valor de imóveis com base de informações coletadas pelo usuário*
