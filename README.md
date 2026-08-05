@@ -5,10 +5,12 @@ Desenvolvedor com uma base sólida em lógica de programação. Possuo conhecime
 ## 🛠️ Stack Tecnológica
 
 ### Backend & Linguagens
-![SQL Server](https://img.shields.io/badge/sql%20server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/asp.net%20core-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
+
 
 
 ## 📌 Projetos em Destaque
@@ -21,9 +23,9 @@ Desenvolvedor com uma base sólida em lógica de programação. Possuo conhecime
 *Projeto de machine learning onde voc6e descobre valor de imóveis com base de informações coletadas pelo usuário*
 > **Skills:** Python, Pandas, Scikit-Learn.
 
-### [Calculadora com Interface](https://github.com/fabiosuniga/calculadora-tkinter)
-*Calculadora simples, mas que possui interface gráfica e executável para download*
-> **Skills:** Python, Lógica de Programação.
+### [Sistema RPG Web](https://github.com/fabiosuniga/CallOfCthulhu)
+*Aplicação Web utilizando Oracle, faz controle de criação e ficha de Call of Cthulhu 7e*
+> **Skills:** PL/SQL, Oracle APEX, Javascript.
 
 ### [D&D Damage](https://github.com/fabiosuniga/D-D-Damage)
 *Projeto que traduz regras de dano de magias do sistema de jogo D&D versão 5e*
