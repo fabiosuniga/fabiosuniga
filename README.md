@@ -31,9 +31,9 @@ Desenvolvedor com uma base sólida em lógica de programação. Possuo conhecime
 *Projeto que traduz regras de dano de magias do sistema de jogo D&D versão 5e*
 > **Skills:** Python, Lógica de Programação.
 
-### [Estudos Python](https://github.com/fabiosuniga/PythonStudies)
-*O foco principal deste repositório não é apenas criar códigos que funcionem, mas sim aprender a construir soluções de forma limpa, eficiente e utilizando boas práticas de mercado*
-> **Skills:** Python, Lógica de Programação.
+### [Ferramenta WEB de QA](https://github.com/fabiosuniga/qa-report-dashboard/tree/main)
+*Fiz essa ferramenta para solucionar um problema real que eu estava tendo ao testar meus sistemas, ele é intuitivo e bem funcional*
+> **Skills:** Web javascript, Frontend e Backend.
 ---
 
 ## 📈 Educação & Certificações
