@@ -39,10 +39,10 @@ Desenvolvedor com uma base sólida em lógica de programação. Possuo conhecime
 ## 📈 Educação & Certificações
 
 - 🎓 **Gestão de Tecnologia da Informação** (FATEC)
-- 🖥️ **Administrador de sistema CSA - ServiceNow** (SENAI)&nbsp;&nbsp;<sub><a href="https://www.credly.com/earner/earned/badge/7f3747d5-d72a-4c22-b5e1-db3224b72449"><img src="https://img.shields.io/badge/Ver_Credencial-007ACC?style=flat" /></a></sub>
+- 🖥️ **Administrador de sistema CSA - ServiceNow** (SENAI)&nbsp;&nbsp;<sub><a href="https://www.sp.senai.br/consulta-certificado?qrcode=59126169051/15750333"><img src="https://img.shields.io/badge/Ver_Credencial-007ACC?style=flat" /></a></sub>
 - 🇬🇧 **Inglês Avançado** (Certificado pelo TOEIC)
-- ☁️ **Oracle Cloud Infrastructure Certified AI Foundations Associate** (ORACLE)&nbsp;&nbsp;<sub><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=233BC03417721DCBA53BFEEB72B3835B1693DC0BCDB02B0F88F80B91C8FD4D99"><img src="https://img.shields.io/badge/Ver_Credencial-F80000?style=flat" /></a></sub>
-- 🗄️ **Oracle AI Database Certified Foundations Associate** (ORACLE)&nbsp;&nbsp;<sub><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=B5A10A6CD19CF97BD37F55BE7997576E4B17EC80261EB36ED4F8D76BA7BE6EAF"><img src="https://img.shields.io/badge/Ver_Credencial-F80000?style=flat" /></a></sub>
+- ☁️ **Oracle Cloud Infrastructure Certified AI Foundations Associate** (ORACLE)&nbsp;&nbsp;<sub><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=AB7B8B02B40CFC1819B0B26B534AE10D90463DBBFAE223E87F536E792E881E36"><img src="https://img.shields.io/badge/Ver_Credencial-F80000?style=flat" /></a></sub>
+- 🗄️ **Oracle AI Database Certified Foundations Associate** (ORACLE)&nbsp;&nbsp;<sub><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=30954DD1476CFA6DB4D24BC788396A87C01075F65DC3023D02D65A761C2B66BE"><img src="https://img.shields.io/badge/Ver_Credencial-F80000?style=flat" /></a></sub>
 
 ## 📫 Como me encontrar
 [LinkedIn][(https://www.linkedin.com/in/fabio-suniga/) | [fabiosuniga@hotmail.com]
