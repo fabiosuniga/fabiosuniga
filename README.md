@@ -32,7 +32,7 @@ Desenvolvedor com uma base sólida em lógica de programação. Possuo conhecime
 > **Skills:** Python, Lógica de Programação.
 
 ### [Machine Learning Preço de Imóveis](https://github.com/fabiosuniga/MachineLearning-PrecoImoveis)
-*Projeto de machine learning onde voc6e descobre valor de imóveis com base de informações coletadas pelo usuário*
+*Projeto de machine learning onde você descobre valor de imóveis com base de informações coletadas pelo usuário*
 > **Skills:** Python, Pandas, Scikit-Learn.
 ---
 
