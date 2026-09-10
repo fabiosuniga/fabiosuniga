@@ -19,9 +19,9 @@ Desenvolvedor com uma base sólida em lógica de programação. Possuo conhecime
 *aplicação web robusta desenvolvida para otimizar e gerenciar o fluxo de trabalho*
 > **Skills:** C# com ASP.NET Core, SQL Server, HTML5, CSS3, Razor Pages e Bootstrap 5
 
-### [Machine Learning Preço de Imóveis](https://github.com/fabiosuniga/MachineLearning-PrecoImoveis)
-*Projeto de machine learning onde voc6e descobre valor de imóveis com base de informações coletadas pelo usuário*
-> **Skills:** Python, Pandas, Scikit-Learn.
+### [Ferramenta WEB de QA](https://github.com/fabiosuniga/qa-report-dashboard/tree/main)
+*Fiz essa ferramenta para solucionar um problema real que eu estava tendo ao testar meus softwares*
+> **Skills:** HTML5, CSS3 e Javascript.
 
 ### [Sistema RPG Web](https://github.com/fabiosuniga/CallOfCthulhu)
 *Aplicação Web utilizando Oracle, faz controle de criação e ficha de Call of Cthulhu 7e*
@@ -31,14 +31,17 @@ Desenvolvedor com uma base sólida em lógica de programação. Possuo conhecime
 *Projeto que traduz regras de dano de magias do sistema de jogo D&D versão 5e*
 > **Skills:** Python, Lógica de Programação.
 
-### [Ferramenta WEB de QA](https://github.com/fabiosuniga/qa-report-dashboard/tree/main)
-*Fiz essa ferramenta para solucionar um problema real que eu estava tendo ao testar meus sistemas, ele é intuitivo e bem funcional*
-> **Skills:** Web javascript, Frontend e Backend.
+### [Machine Learning Preço de Imóveis](https://github.com/fabiosuniga/MachineLearning-PrecoImoveis)
+*Projeto de machine learning onde voc6e descobre valor de imóveis com base de informações coletadas pelo usuário*
+> **Skills:** Python, Pandas, Scikit-Learn.
 ---
 
 ## 📈 Educação & Certificações
-- 🎓 **Gestão de Tecnologia da Informação** (FATEC).
-- 🇬🇧 **Inglês Avançado** (Certificado pela TOEIC).
+- 🎓 **Gestão de Tecnologia da Informação** (FATEC)
+- 🖥️ **Administrador de sistema CSA - ServiceNow** (SENAI) [![Ver Credencial](https://img.shields.io/badge/Ver_Credencial-007ACC?style=flat-square)](https://www.sp.senai.br/consulta-certificado?qrcode=59126169051/15750333)
+- 🇬🇧 **Inglês Avançado** (Certificado pelo TOEIC) [![Ver Credencial](https://img.shields.io/badge/Ver_Credencial-007ACC?style=flat-square)](COLE_O_LINK_AQUI)
+- ☁️ **Oracle Cloud Infrastructure Certified AI Foundations Associate** (ORACLE) [![Ver Credencial](https://img.shields.io/badge/Ver_Credencial-F80000?style=flat-square)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=AB7B8B02B40CFC1819B0B26B534AE10D90463DBBFAE223E87F536E792E881E36)
+- 🗄️ **Oracle AI Database Certified Foundations Associate** (ORACLE) [![Ver Credencial](https://img.shields.io/badge/Ver_Credencial-F80000?style=flat-square)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=30954DD1476CFA6DB4D24BC788396A87C01075F65DC3023D02D65A761C2B66BE)
 
 ## 📫 Como me encontrar
 [LinkedIn][(https://www.linkedin.com/in/fabio-suniga/) | [fabiosuniga@hotmail.com]
