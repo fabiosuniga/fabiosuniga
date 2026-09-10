@@ -1,6 +1,19 @@
-# Olá, eu sou o Fábio Suniga! 👋
+```sql
+Connected to:
+Oracle Database 23ai Enterprise Edition Release 23.0.0.0.0 - Production
 
-Desenvolvedor com uma base sólida em lógica de programação. Possuo conhecimentos em linguagens como Python e C#, além de manipulação de bases de dados em MySQL. Meu objetivo é construir soluções escaláveis, seguras e bem documentadas.
+SQL> SELECT 'Olá, eu sou o Fábio Suniga! 👋' AS DEV_PROFILE FROM DUAL;
+
+DEV_PROFILE
+--------------------------------------------------
+Olá, eu sou o Fábio Suniga! 👋
+
+1 row selected.
+
+SQL> _
+```
+
+Desenvolvedor com base sólida em lógica e modelagem de dados. Experiência em linguagens como PL/SQL, Python e C#, além de manipulação de bancos de dados relacionais (SQL / Oracle). Foco na construção de soluções escaláveis, seguras e bem documentadas.
 
 ## 🛠️ Stack Tecnológica
 
