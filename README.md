@@ -39,10 +39,14 @@ Desenvolvedor com uma base sólida em lógica de programação. Possuo conhecime
 ## 📈 Educação & Certificações
 
 - 🎓 **Gestão de Tecnologia da Informação** (FATEC)
-- 🖥️ **Administrador de sistema CSA - ServiceNow** (SENAI)&nbsp;&nbsp;<sub><a href="https://www.sp.senai.br/consulta-certificado?qrcode=59126169051/15750333"><img src="https://img.shields.io/badge/Ver_Credencial-007ACC?style=flat" /></a></sub>
+- 🖥️ **Administrador de sistema CSA - ServiceNow** (SENAI) &nbsp; [![Ver Credencial](https://img.shields.io/badge/Ver_Credencial-007ACC?style=flat)](https://www.sp.senai.br/consulta-certificado?qrcode=59126169051/15750333)
 - 🇬🇧 **Inglês Avançado** (Certificado pelo TOEIC)
-- ☁️ **Oracle Cloud Infrastructure Certified AI Foundations Associate** (ORACLE)&nbsp;&nbsp;<sub><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=AB7B8B02B40CFC1819B0B26B534AE10D90463DBBFAE223E87F536E792E881E36"><img src="https://img.shields.io/badge/Ver_Credencial-F80000?style=flat" /></a></sub>
-- 🗄️ **Oracle AI Database Certified Foundations Associate** (ORACLE)&nbsp;&nbsp;<sub><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=30954DD1476CFA6DB4D24BC788396A87C01075F65DC3023D02D65A761C2B66BE"><img src="https://img.shields.io/badge/Ver_Credencial-F80000?style=flat" /></a></sub>
+- ☁️ **Oracle Cloud Infrastructure Certified AI Foundations Associate** (ORACLE) &nbsp; [![Ver Credencial](https://img.shields.io/badge/Ver_Credencial-F80000?style=flat)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=AB7B8B02B40CFC1819B0B26B534AE10D90463DBBFAE223E87F536E792E881E36)
+- 🗄️ **Oracle AI Database Certified Foundations Associate** (ORACLE) &nbsp; [![Ver Credencial](https://img.shields.io/badge/Ver_Credencial-F80000?style=flat)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=30954DD1476CFA6DB4D24BC788396A87C01075F65DC3023D02D65A761C2B66BE)
+
+---
 
 ## 📫 Como me encontrar
-[LinkedIn][(https://www.linkedin.com/in/fabio-suniga/) | [fabiosuniga@hotmail.com]
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-suniga/)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabiosuniga@hotmail.com)
