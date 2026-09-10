@@ -38,10 +38,10 @@ Desenvolvedor com uma base sólida em lógica de programação. Possuo conhecime
 
 ## 📈 Educação & Certificações
 - 🎓 **Gestão de Tecnologia da Informação** (FATEC)
-- 🖥️ **Administrador de sistema CSA - ServiceNow** (SENAI) [![Ver Credencial](https://img.shields.io/badge/Ver_Credencial-007ACC?style=flat-square)](https://www.sp.senai.br/consulta-certificado?qrcode=59126169051/15750333)
-- 🇬🇧 **Inglês Avançado** (Certificado pelo TOEIC) [![Ver Credencial](https://img.shields.io/badge/Ver_Credencial-007ACC?style=flat-square)](COLE_O_LINK_AQUI)
-- ☁️ **Oracle Cloud Infrastructure Certified AI Foundations Associate** (ORACLE) [![Ver Credencial](https://img.shields.io/badge/Ver_Credencial-F80000?style=flat-square)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=AB7B8B02B40CFC1819B0B26B534AE10D90463DBBFAE223E87F536E792E881E36)
-- 🗄️ **Oracle AI Database Certified Foundations Associate** (ORACLE) [![Ver Credencial](https://img.shields.io/badge/Ver_Credencial-F80000?style=flat-square)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=30954DD1476CFA6DB4D24BC788396A87C01075F65DC3023D02D65A761C2B66BE)
+- 🖥️ **Administrador de sistema CSA - ServiceNow** (SENAI) <a href="https://www.sp.senai.br/consulta-certificado?qrcode=59126169051/15750333"><img src="https://img.shields.io/badge/VER_CREDENCIAL-007ACC?style=for-the-badge" height="20" align="middle" /></a>
+- 🇬🇧 **Inglês Avançado** (Certificado pelo TOEIC)
+- ☁️ **Oracle Cloud Infrastructure Certified AI Foundations Associate** (ORACLE) <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=AB7B8B02B40CFC1819B0B26B534AE10D90463DBBFAE223E87F536E792E881E36"><img src="https://img.shields.io/badge/VER_CREDENCIAL-F80000?style=for-the-badge" height="20" align="middle" /></a>
+- 🗄️ **Oracle AI Database Certified Foundations Associate** (ORACLE) <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=30954DD1476CFA6DB4D24BC788396A87C01075F65DC3023D02D65A761C2B66BE"><img src="https://img.shields.io/badge/VER_CREDENCIAL-F80000?style=for-the-badge" height="20" align="middle" /></a>
 
 ## 📫 Como me encontrar
 [LinkedIn][(https://www.linkedin.com/in/fabio-suniga/) | [fabiosuniga@hotmail.com]
