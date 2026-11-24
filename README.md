@@ -2,7 +2,7 @@
 Welcome to Node.js v22.0.0.
 Type ".help" for more information.
 
-> const dev = { nome: 'Fábio Suniga', status: 'Online 🚀' };
+> const dev = { nome: 'Fábio Suniga', status: 'Online' };
 undefined
 > console.log(`Olá, eu sou o ${dev.nome}! 👋`);
 Olá, eu sou o Fábio Suniga! 👋
