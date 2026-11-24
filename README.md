@@ -1,16 +1,13 @@
 ```sql
-Connected to:
-Oracle Database 23ai Enterprise Edition Release 23.0.0.0.0 - Production
+Welcome to Node.js v22.0.0.
+Type ".help" for more information.
 
-SQL> SELECT 'Olá, eu sou o Fábio Suniga! 👋' AS DEV_PROFILE FROM DUAL;
-
-DEV_PROFILE
---------------------------------------------------
+> const dev = { nome: 'Fábio Suniga', status: 'Online 🚀' };
+undefined
+> console.log(`Olá, eu sou o ${dev.nome}! 👋`);
 Olá, eu sou o Fábio Suniga! 👋
-
-1 row selected.
-
-SQL> _
+undefined
+> _
 ```
 
 Desenvolvedor com base sólida em lógica e modelagem de dados. Experiência em linguagens como PL/SQL, Python e C#, além de manipulação de bancos de dados relacionais (SQL / Oracle). Foco na construção de soluções escaláveis, seguras e bem documentadas.
