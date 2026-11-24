@@ -28,6 +28,10 @@ Desenvolvedor com base sólida em lógica e modelagem de dados. Experiência em 
 
 ## 📌 Projetos em Destaque
 
+### [Sistema RPG Web](https://github.com/fabiosuniga/CallOfCthulhu7e)
+*Aplicação Web utilizando HTML5, CSS E Javascript com banco de dados no Supabase, faz controle e criação e ficha, com mesas de campanhas online de Call of Cthulhu 7e*
+> **Skills:** HTML5, CSS E Javascript.
+
 ### [Alta Visual Web](https://github.com/fabiosuniga/AltaVisual-App)
 *aplicação web robusta desenvolvida para otimizar e gerenciar o fluxo de trabalho*
 > **Skills:** C# com ASP.NET Core, SQL Server, HTML5, CSS3, Razor Pages e Bootstrap 5
@@ -36,17 +40,10 @@ Desenvolvedor com base sólida em lógica e modelagem de dados. Experiência em 
 *Fiz essa ferramenta para solucionar um problema real que eu estava tendo ao testar meus softwares*
 > **Skills:** HTML5, CSS3 e Javascript.
 
-### [Sistema RPG Web](https://github.com/fabiosuniga/CallOfCthulhu)
-*Aplicação Web utilizando Oracle, faz controle de criação e ficha de Call of Cthulhu 7e*
-> **Skills:** PL/SQL, Oracle APEX, Javascript.
+### [Minha Landing Page](https://github.com/fabiosuniga/fabio-suniga-landing-page)
+*Meu site onde recebo leads de clientes para criação de landing pages e artes gráficas*
+> **Skills:** HTML5, CSS e Javascript.
 
-### [D&D Damage](https://github.com/fabiosuniga/D-D-Damage)
-*Projeto que traduz regras de dano de magias do sistema de jogo D&D versão 5e*
-> **Skills:** Python, Lógica de Programação.
-
-### [Machine Learning Preço de Imóveis](https://github.com/fabiosuniga/MachineLearning-PrecoImoveis)
-*Projeto de machine learning onde você descobre valor de imóveis com base de informações coletadas pelo usuário*
-> **Skills:** Python, Pandas, Scikit-Learn.
 ---
 
 ## 📈 Educação & Certificações
